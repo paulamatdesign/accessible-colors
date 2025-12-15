@@ -23,7 +23,7 @@ This app is an educational project only. The author assumes no responsibility or
 
 - [WCAG 2.1 Contrast Guidelines](https://www.w3.org/TR/WCAG21/#contrast-minimum)
 
-## 📄 License
+## License
 
 This project is released under the MIT License. See the LICENSE file for details.
 
@@ -36,8 +36,6 @@ Created for learning and experimentation purposes. No affiliation with W3C or an
 If you find a bug, calculation issue, or would like to suggest a new questionnaire, feel free to contact:
 
 [paul.amat@live.fr](paul.amat@live.fr)
-
----
 
 ## GitHub Notice
 
