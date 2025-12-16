@@ -2,22 +2,9 @@
 
 ## Purpose
 
-A simple Streamlit web application for checking color contrast ratios against WCAG accessibility guidelines, including AA and AAA compliance thresholds.
-
-## Features
-
-- Calculate contrast ratio between foreground and background colors
-- Check compliance with:
-  - WCAG AA (≥ 4.5:1)
-  - WCAG AAA (≥ 7.0:1)
-
-## Educational Purpose Only
+A simple Streamlit web application for checking color contrast ratios against WCAG accessibility guidelines, including AA and AAA compliance thresholds. Created by [Paul Amat](https://paulamatdesign.github.io/). No affiliation with W3C or any accessibility authority.
 
 This application is provided strictly for educational and informational purposes. It is NOT a substitute for professional accessibility audits, legal compliance checks, or expert consultation.
-
-## Limitations
-
-This app is an educational project only. The author assumes no responsibility or liability for incorrect results, accessibility violations, legal or regulatory non-compliance, or any damages, losses, or consequences arising from the use of this software
 
 ## References
 
@@ -26,10 +13,6 @@ This app is an educational project only. The author assumes no responsibility or
 ## License
 
 This project is released under the MIT License. See the LICENSE file for details.
-
-## Author
-
-Created for learning and experimentation purposes. No affiliation with W3C or any accessibility authority.
 
 ## Feedback & Contact
 
