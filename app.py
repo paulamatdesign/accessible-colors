@@ -133,7 +133,14 @@ with st.container(border = True):
             pill(AA_met, AA_met_color)
         else:
             pill(AAA_met, AAA_met_color)
-    st.caption(f"Contrast Ratio: {round(ratio, 2)}:1")
+    col1, col2 = st.columns(2)
+    with col1:
+        st.caption(f"Contrast Ratio: {round(ratio, 1)}")
+    with col2:
+        if level == "AA":
+            st.caption(f"Needed Ratio: 4.5")
+        else:
+            st.caption(f"Needed Ratio: 7.0")
 
 st.space()
 
